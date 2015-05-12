@@ -132,11 +132,11 @@ ru:
     log_in: "вход"
     age: "возраст"
     joined: "Зарегистрировался"
-    admin_title: "Административная часть"
+    admin_title: "административная часть"
     flags_title: "жалобы"
     show_more: "показать дальше"
     show_help: "справка"
-    links: "Ссылки"
+    links: "ссылки"
     links_lowercase:
       one: "ссылка"
       few: "ссылки"
@@ -152,8 +152,8 @@ ru:
     or: "или"
     now: "только что"
     read_more: 'читать дальше'
-    more: "Больше"
-    less: "Меньше"
+    more: "больше"
+    less: "меньше"
     never: "никогда"
     daily: "ежедневно"
     weekly: "еженедельно"
@@ -166,7 +166,7 @@ ru:
       many: "{{count}} букв"
       other: "{{count}} букв"
     suggested_topics:
-      title: "Похожие темы"
+      title: "похожие темы"
     about:
       simple_title: "Информация"
       title: "Информация про %{title}"
@@ -319,7 +319,7 @@ ru:
       all: "разделы"
       all_subcategories: "все"
       no_subcategory: "(нет)"
-      category: "Раздел"
+      category: "раздел"
       posts: "Сообщения"
       topics: "Темы"
       latest: "Последние"
@@ -917,7 +917,7 @@ ru:
       read_more: "Хотите почитать что-нибудь еще? {{catLink}} или {{latestLink}}."
       browse_all_categories: Просмотреть все разделы
       view_latest_topics: посмотреть последние темы
-      suggest_create_topic: Открыть новую тему.
+      suggest_create_topic: открыть новую тему
       jump_reply_up: перейти к более ранним ответам
       jump_reply_down: перейти к более поздним ответам
       deleted: "Тема удалена"
@@ -1468,7 +1468,7 @@ ru:
       high {с чрезвычайно высоким рейтингом симпатий}
       other {}}
     original_post: "Начальное сообщение"
-    views: "Просм."
+    views: "просм."
     views_lowercase:
       one: "просмотр"
       few: "просмотра"
@@ -1487,7 +1487,7 @@ ru:
       one: "пользователь"
       few: "пользователя"
       other: "пользователей"
-    category_title: "Раздел"
+    category_title: "раздел"
     history: "История"
     changed_by: "автором {{author}}"
     raw_email:
@@ -1938,7 +1938,7 @@ ru:
           clear_filters: "Показать все"
           staff_user: "Персонал"
           target_user: "Целевой пользователь"
-          subject: "Тема"
+          subject: "тема"
           when: "Когда"
           context: "Контекст"
           details: "Подробности"
