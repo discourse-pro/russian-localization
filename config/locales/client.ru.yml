@@ -316,7 +316,7 @@ ru:
       '13': "Входящие"
       '14': "Ожидает одобрения"
     categories:
-      all: "все разделы"
+      all: "разделы"
       all_subcategories: "все"
       no_subcategory: "(нет)"
       category: "Раздел"
@@ -1350,7 +1350,7 @@ ru:
       general: 'Общие'
       settings: 'Настройки'
       delete: 'Удалить раздел'
-      create: 'Создать Раздел'
+      create: 'создать раздел'
       save: 'Сохранить раздел'
       slug: 'Ссылка Категории'
       slug_placeholder: '(Опция) дефисы в url'
@@ -1498,7 +1498,7 @@ ru:
       with_topics: "%{filter} темы"
       with_category: "%{filter} %{category} темы"
       latest:
-        title: "Последние"
+        title: "последние"
         help: "темы с недавними сообщениями"
       hot:
         title: "Популярные"
@@ -1515,9 +1515,9 @@ ru:
         help: "все темы, сгруппированные по разделам"
       unread:
         title:
-          zero: "Непрочитанные"
-          one: "Непрочитанные (1)"
-          other: "Непрочитанные ({{count}})"
+          zero: "непрочитанные"
+          one: "непрочитанные (1)"
+          other: "непрочитанные ({{count}})"
         help: "наблюдаемые или отслеживаемые темы с непрочитанными сообщениями"
         lower_title_with_count:
           one: "1 непрочитано"
@@ -1528,9 +1528,9 @@ ru:
           other: "{{count}} новых"
         lower_title: "новые"
         title:
-          zero: "Новые"
-          one: "Новые (1)"
-          other: "Новые ({{count}})"
+          zero: "новые"
+          one: "новые (1)"
+          other: "новые ({{count}})"
         help: "темы, созданные за последние несколько дней"
       posted:
         title: "Мои"
@@ -1545,7 +1545,7 @@ ru:
           other: "{{categoryName}} ({{count}})"
         help: "последние темы в разделе {{categoryName}}"
       top:
-        title: "Обсуждаемые"
+        title: "обсуждаемые"
         help: "наиболее активные темы за прошлый год, месяц, неделю или день"
         all:
           title: "За все время"
