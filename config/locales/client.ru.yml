@@ -128,11 +128,11 @@ ru:
     yes_value: "Да"
     generic_error: "Извините, произошла ошибка."
     generic_error_with_reason: "Произошла ошибка: %{error}"
-    sign_up: "Зарегистрироваться"
-    log_in: "Войти"
+    sign_up: "регистрация"
+    log_in: "вход"
     age: "Возраст"
     joined: "Зарегистрировался"
-    admin_title: "Админка"
+    admin_title: "Административная часть"
     flags_title: "Жалобы"
     show_more: "показать дальше"
     show_help: "справка"
@@ -265,7 +265,7 @@ ru:
       sent_by_you: "Отправлено <a href='{{userUrl}}'>Вами</a>"
     directory:
       filter_name: "фильтр по имени пользователя"
-      title: "Пользователи"
+      title: "пользователи"
       likes_given: "Отправлено"
       likes_received: "Получено"
       topics_entered: "Посещено тем"
@@ -357,13 +357,13 @@ ru:
       said: "{{username}}:"
       profile: "Профиль"
       mute: "Отключить"
-      edit: "Настройки"
+      edit: "настройки"
       download_archive: "Скачать архив сообщений"
       new_private_message: "Новое сообщение"
       private_message: "Сообщение"
       private_messages: "Личные сообщения"
       activity_stream: "Активность"
-      preferences: "Настройки"
+      preferences: "настройки"
       bookmarks: "Закладки"
       bio: "Обо мне"
       invited_by: "Приглашен пользователем"
@@ -396,7 +396,7 @@ ru:
       delete_yourself_not_allowed: "Вы не можете сейчас удалить свою учётную запись. Попросите администратора удалить вашу учётную запись."
       unread_message_count: "Сообщения"
       admin_delete: "Удалить"
-      users: "Пользователи"
+      users: "пользователи"
       muted_users: "Выключено"
       muted_users_instructions: "Не отображать уведомления от этих пользователей."
       staff_counters:
@@ -484,7 +484,7 @@ ru:
       last_emailed: "Последнее письмо"
       last_seen: "Был"
       created: "Вступил"
-      log_out: "Выйти"
+      log_out: "выйти"
       location: "Местоположение"
       card_badge:
         title: "Иконка карточки пользователя"
@@ -1510,7 +1510,7 @@ ru:
         title: "Поиск"
         help: "искать во всех темах"
       categories:
-        title: "Разделы"
+        title: "разделы"
         title_in: "Раздел - {{categoryName}}"
         help: "все темы, сгруппированные по разделам"
       unread:
@@ -1574,7 +1574,7 @@ ru:
       title: 'Discourse Admin'
       moderator: 'Модератор'
       dashboard:
-        title: "Панель"
+        title: "сводка"
         last_updated: "Последнее обновление статистики:"
         version: "Версия"
         up_to_date: "Вы используете самую свежую версию!"
@@ -1883,7 +1883,7 @@ ru:
             description: "Базовый цвет, используемый для фона вики-сообщений."
       email:
         title: "Email"
-        settings: "Настройки"
+        settings: "настройки"
         all: "Все"
         sending_test: "Отправка тестового письма..."
         error: "<b>ОШИБКА</b> - %{server_error}"
