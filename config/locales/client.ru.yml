@@ -170,11 +170,11 @@ ru:
     about:
       simple_title: "Информация"
       title: "Информация про %{title}"
-      stats: "Статистика сайта"
-      our_admins: "Наши администраторы"
-      our_moderators: "Наши модераторы"
+      stats: "Статистика:"
+      our_admins: "Администраторы:"
+      our_moderators: "Модераторы:"
       stat:
-        all_time: "За все время"
+        all_time: "за все время"
         last_7_days: "Последние 7 дней"
         last_30_days: "30 дней"
       like_count: "Симпатии"
@@ -1147,7 +1147,7 @@ ru:
         attachment_too_large: "Файл, который Вы пытаетесь загрузить, слишком большой (максимальный разрешенный размер {{max_size_kb}}КБ)."
         file_too_large: "К сожалению, файл, который Вы пытаетесь загрузить, слишком большой (максимально допустимый размер {{max_size_kb}}kb)"
         too_many_uploads: "К сожалению, за один раз можно загрузить только одно изображение."
-        too_many_dragged_and_dropped_files: "За один раз можно перетянуть не более 10 файлов."
+        too_many_dragged_and_dropped_files: "за один раз можно перетянуть не более 10 файлов."
         upload_not_authorized: "К сожалению, Вы не можете загрузить файл данного типа (список разрешенных типов файлов: {{authorized_extensions}})."
         image_upload_not_allowed_for_new_user: "К сожалению, загрузка изображений недоступна новым пользователям."
         attachment_upload_not_allowed_for_new_user: "К сожалению, загрузка файлов недоступна новым пользователям."
@@ -1548,19 +1548,19 @@ ru:
         title: "обсуждаемые"
         help: "наиболее активные темы за прошлый год, месяц, неделю или день"
         all:
-          title: "За все время"
+          title: "за все время"
         yearly:
-          title: "За год"
+          title: "за год"
         monthly:
-          title: "За месяц"
+          title: "за месяц"
         weekly:
-          title: "За неделю"
+          title: "за неделю"
         daily:
-          title: "За день"
-        all_time: "За все время"
-        this_year: "За год"
-        this_month: "За месяц"
-        this_week: "За неделю"
+          title: "за день"
+        all_time: "за все время"
+        this_year: "за год"
+        this_month: "за месяц"
+        this_week: "за неделю"
         today: "Сегодня"
         other_periods: "смотреть больше обсуждаемых сообщений"
     browser_update: 'К сожалению, Ваш браузер устарел и не поддерживается этим сайтом. Пожалуйста, <a href="http://browsehappy.com">обновите браузер</a> (нажмите на ссылку, чтобы узнать больше).'
@@ -1609,7 +1609,7 @@ ru:
           yesterday: "Вчера"
           last_7_days: "7 дней"
           last_30_days: "30 дней"
-          all_time: "За все время"
+          all_time: "за все время"
           7_days_ago: "7 дней"
           30_days_ago: "30 дней"
           all: "Все"
@@ -2157,7 +2157,7 @@ ru:
         unlock_trust_level: "Разморозить уровень доверия"
         tl3_requirements:
           title: "Требования для 3 уровня доверия"
-          table_title: "За последние 100 дней:"
+          table_title: "за последние 100 дней:"
           value_heading: "Значение"
           requirement_heading: "Требование"
           visits: "Посещений"
