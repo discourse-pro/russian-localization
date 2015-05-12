@@ -862,7 +862,7 @@ ru:
         search: "Больше ничего не найдено."
     topic:
       filter_to: "{{post_count}} сообщений в теме"
-      create: 'Создать Тему'
+      create: 'создать тему'
       create_long: 'Создать новую тему'
       private_message: 'Написать сообщение'
       list: 'Темы'
