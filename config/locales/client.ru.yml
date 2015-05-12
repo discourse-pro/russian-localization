@@ -11,14 +11,14 @@ ru:
           format: '%n %u'
           units:
             byte:
-              one: Байт
-              few: Байта
-              many: Байт
-              other: Байт
-            gb: ГБ
-            kb: КБ
-            mb: МБ
-            tb: ТБ
+              one: байт
+              few: байта
+              many: байт
+              other: байт
+            gb: Гб
+            kb: Кб
+            mb: Мб
+            tb: Тб
     dates:
       time: "HH:mm"
       long_no_year: "D MMM HH:mm"
@@ -31,7 +31,7 @@ ru:
       long_date_without_year_with_linebreak: "D MMM <br/>LT"
       long_date_with_year_with_linebreak: "D MMM YYYY <br/>LT"
       tiny:
-        half_a_minute: "< 1мин"
+        half_a_minute: "< 1 мин."
         less_than_x_seconds:
           one: "< 1сек"
           few: "< %{count}сек"
@@ -130,10 +130,10 @@ ru:
     generic_error_with_reason: "Произошла ошибка: %{error}"
     sign_up: "регистрация"
     log_in: "вход"
-    age: "Возраст"
+    age: "возраст"
     joined: "Зарегистрировался"
     admin_title: "Административная часть"
-    flags_title: "Жалобы"
+    flags_title: "жалобы"
     show_more: "показать дальше"
     show_help: "справка"
     links: "Ссылки"
@@ -141,10 +141,10 @@ ru:
       one: "ссылка"
       few: "ссылки"
       other: "ссылок"
-    faq: "Вопрос-ответ"
-    guidelines: "Руководство"
-    privacy_policy: "Политика конфиденциальности"
-    privacy: "Конфиденциальность"
+    faq: "вопрос-ответ"
+    guidelines: "руководство"
+    privacy_policy: "политика конфиденциальности"
+    privacy: "конфиденциальность"
     terms_of_service: "Условия предоставления услуг"
     mobile_view: "Для мобильных устройств"
     desktop_view: "Для настольных устройств"
@@ -500,7 +500,7 @@ ru:
       email_private_messages: "Присылать почтовое уведомление, когда кто-то оставляет мне сообщение"
       email_always: "Отправлять оповещения по e-mail даже когда я нахожусь на сайте."
       other_settings: "Прочее"
-      categories_settings: "Разделы"
+      categories_settings: "разделы"
       new_topic_duration:
         label: "Считать темы новыми, если"
         not_viewed: "Еще не просмотрены"
@@ -644,7 +644,7 @@ ru:
     trust_level: 'Уровень доверия'
     search_hint: 'псевдоним, e-mail или IP адрес'
     create_account:
-      title: "Зарегистрироваться"
+      title: "Регистрация"
       failed: "Произошла ошибка. Возможно, этот Email уже используется. Попробуйте восстановить пароль"
     forgot_password:
       title: "Сброс пароля"
@@ -678,23 +678,23 @@ ru:
       resend_activation_email: "Щелкните здесь, чтобы мы повторно выслали вам письмо для активации учетной записи."
       sent_activation_email_again: "По адресу <b>{{currentEmail}}</b> повторно отправлено письмо с инструкциями по активации вашей учетной записи. Доставка сообщения может занять несколько минут. Имейте в виду, что иногда по ошибке письмо может попасть в папку Спам."
       google:
-        title: "С помощью Google"
-        message: "Вход с помощью учетной записи Google (убедитесь, что блокировщик всплывающих окон отключен)"
+        title: "через Google"
+        message: "Вход через учётную запись Google (убедитесь, что блокировщик всплывающих окон отключен)"
       google_oauth2:
-        title: "С помощью Google"
-        message: "Вход с помощью учетной записи Google (убедитесь, что блокировщик всплывающих окон отключен)"
+        title: "через Google"
+        message: "Вход через учётную запись Google (убедитесь, что блокировщик всплывающих окон отключен)"
       twitter:
-        title: "С помощью Twitter"
-        message: "Вход с помощью учетной записи Twitter (убедитесь, что блокировщик всплывающих окон отключен)"
+        title: "через Twitter"
+        message: "Вход через учётную запись Twitter (убедитесь, что блокировщик всплывающих окон отключен)"
       facebook:
-        title: "С помощью Facebook"
-        message: "Вход с помощью учетной записи Facebook (всплывающие окна должны быть разрешены)"
+        title: "через Facebook"
+        message: "Вход через учётную запись Facebook (всплывающие окна должны быть разрешены)"
       yahoo:
-        title: "С помощью Yahoo"
-        message: "Вход с помощью учетной записи Yahoo (убедитесь, что блокировщик всплывающих окон отключен)"
+        title: "через Yahoo"
+        message: "Вход через учётную запись Yahoo (убедитесь, что блокировщик всплывающих окон отключен)"
       github:
-        title: "С помощью GitHub"
-        message: "Вход с помощью учетной записи GitHub (убедитесь, что блокировщик всплывающих окон отключен)"
+        title: "через GitHub"
+        message: "Вход через учётную запись GitHub (убедитесь, что блокировщик всплывающих окон отключен)"
     apple_international: "Apple/International"
     google: "Google"
     twitter: "Twitter"
