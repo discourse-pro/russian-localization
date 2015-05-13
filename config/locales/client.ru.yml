@@ -1355,26 +1355,26 @@ ru:
       settings: 'Настройки'
       delete: 'Удалить раздел'
       create: 'создать раздел'
-      save: 'Сохранить раздел'
-      slug: 'Ссылка Категории'
+      save: 'применить'
+      slug: 'окончание веб-адреса'
       slug_placeholder: '(Опция) дефисы в url'
       creation_error: При создании нового раздела возникла ошибка.
       save_error: При сохранении раздела возникла ошибка.
-      name: "Название раздела"
-      description: "Описание"
+      name: "заголовок"
+      description: "описание:"
       topic: "тема раздела"
       logo: "Логотип раздела"
       background_image: "Фоновое изображение раздела"
-      badge_colors: "Цвета наград"
-      background_color: "Цвет фона"
-      foreground_color: "Цвет переднего плана"
+      badge_colors: "цвета:"
+      background_color: "цвет фона:"
+      foreground_color: "цвет текста:"
       name_placeholder: "Не более одного-двух слов"
       color_placeholder: "Любой цвет из веб-палитры"
       delete_confirm: "Вы действительно хотите удалить раздел?"
       delete_error: "При удалении раздела произошла ошибка."
       list: "Список разделов"
       no_description: "Пожалуйста, добавьте описание для этого раздела."
-      change_in_category_topic: "Изменить описание"
+      change_in_category_topic: "редактировать..."
       already_used: 'Цвет уже используется другим разделом'
       security: "Безопасность"
       images: "Изображения"
@@ -1392,7 +1392,7 @@ ru:
       default_position: "Позиция по умолчанию"
       position_disabled: "Разделы будут показаны в порядке активности. Чтобы настроить порядок разделов,"
       position_disabled_click: 'включите настройку "fixed category positions".'
-      parent: "Родительский раздел"
+      parent: "родительский раздел"
       notifications:
         watching:
           title: "наблюдать"

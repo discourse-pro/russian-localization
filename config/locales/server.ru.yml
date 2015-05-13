@@ -210,7 +210,7 @@ ru:
   activerecord:
     attributes:
       category:
-        name: "Название раздела"
+        name: "заголовок"
       post:
         raw: "Текст сообщения"
       user_profile:
