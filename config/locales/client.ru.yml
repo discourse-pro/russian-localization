@@ -921,7 +921,7 @@ ru:
       read_more: "Хотите почитать что-нибудь еще? {{catLink}} или {{latestLink}}."
       browse_all_categories: Просмотреть все разделы
       view_latest_topics: посмотреть последние темы
-      suggest_create_topic: открыть новую тему
+      suggest_create_topic: открыть новую тему...
       jump_reply_up: перейти к более ранним ответам
       jump_reply_down: перейти к более поздним ответам
       deleted: "Тема удалена"
