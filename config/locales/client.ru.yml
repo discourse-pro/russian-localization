@@ -183,7 +183,7 @@ ru:
       user_count: "новые пользователи"
       active_user_count: "активные пользователи"
       contact: "контакты"
-      contact_info: "Связь с администрацией %{contact_info}."
+      contact_info: "Связь с администрацией: %{contact_info}."
     bookmarked:
       title: "Избранное"
       clear_bookmarks: "Очистить закладки"
