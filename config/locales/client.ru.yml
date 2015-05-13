@@ -1351,8 +1351,8 @@ ru:
       edit: 'изменить'
       edit_long: "настроить"
       view: 'Просмотр тем по разделам'
-      general: 'Общие'
-      settings: 'Настройки'
+      general: 'основное'
+      settings: 'другое'
       delete: 'Удалить раздел'
       create: 'создать раздел'
       save: 'применить'
@@ -1376,7 +1376,7 @@ ru:
       no_description: "Пожалуйста, добавьте описание для этого раздела."
       change_in_category_topic: "редактировать..."
       already_used: 'Цвет уже используется другим разделом'
-      security: "Безопасность"
+      security: "полномочия"
       images: "логотип / текстура"
       auto_close_label: "закрывать темы через:"
       auto_close_units: "часов"
@@ -2239,7 +2239,7 @@ ru:
           email: 'E-mail'
           files: 'Файлы'
           trust: 'Уровни доверия'
-          security: 'Безопасность'
+          security: 'полномочия'
           onebox: "Умная вставка"
           seo: 'Поисковая оптимизация (SEO)'
           spam: 'Спам'
