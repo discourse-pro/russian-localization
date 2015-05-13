@@ -347,7 +347,7 @@ ru:
       phone: Телефон
       other_accounts: "Другие учетные записи с этим IP адресом"
       delete_other_accounts: "Удалить %{count}"
-      username: "идентификатор"
+      username: "Идентификатор"
       trust_level: "уровень"
       read_time: "время чтения"
       topics_entered: "посещено тем"
@@ -447,7 +447,7 @@ ru:
         instructions: "Картинки фона будут отцентрированы и по-умолчанию имеют ширину 590 пикселей."
       email:
         title: "E-mail"
-        instructions: "Всегда скрыт от публики"
+        instructions: "будет виден только администраторам"
         ok: "Мы вышлем Вам письмо для подтверждения"
         invalid: "Введите действующий адрес электронной почты"
         authenticated: "Ваш адрес электронной почты подтвержден {{provider}}"
@@ -458,12 +458,14 @@ ru:
       name:
         title: "Имя"
         instructions: "Ваше полное имя (опционально)"
-        instructions_required: "Ваше полное имя"
+        instructions_required: "Укажите Ваши реальные имя и фамилию.
+        Пример правильного ввода: «**Дмитрий Федюк**».
+        Указание недостоверных имени и фамилии приведёт к блокировке Вашей учётной записи."
         too_short: "Ваше имя слишком короткое"
         ok: "Допустимое имя"
       username:
-        title: "идентификатор"
-        instructions: "Уникальный, без пробелов и покороче"
+        title: "Идентификатор"
+        instructions: "допустимы латинские буквы, символ подчёркивания «_» и цифры."
         short_instructions: "Пользователи могут упоминать Вас по идентификатору @{{username}}"
         available: "идентификатор доступен"
         global_match: "Адрес электронной почты совпадает с зарегистрированным идентификатором"
@@ -561,8 +563,8 @@ ru:
         common: "Пароль слишком короткий."
         same_as_username: "Ваш пароль такой же, как и Ваше имя пользователя."
         same_as_email: "Ваш пароль такой же, как и Ваш email."
-        ok: "Допустимый пароль."
-        instructions: "Не менее %{count} символов."
+        ok: "хороший"
+        instructions: "не менее %{count} символов."
       associated_accounts: "Связанные аккаунты"
       ip_address:
         title: "Последний IP адрес"
@@ -659,7 +661,7 @@ ru:
       complete_email_not_found: "Не найдено учетной записи с адресом электронной почты <b>%{email}</b>"
     login:
       title: "войти"
-      username: "идентификатор"
+      username: "Идентификатор"
       password: "пароль"
       email_placeholder: "E-mail или идентификатор"
       caps_lock_warning: "Caps Lock включен"
@@ -1912,7 +1914,7 @@ ru:
           none: "Записи в журнале регистрации не найдены."
           filters:
             title: "Фильтр"
-            user_placeholder: "идентификатор"
+            user_placeholder: "Идентификатор"
             address_placeholder: "name@example.com"
             type_placeholder: "дайджест, подписка..."
             reply_key_placeholder: "ключ ответа"
@@ -2183,7 +2185,7 @@ ru:
         sso:
           title: "Технология единого входа SSO"
           external_id: "Внешний идентификатор"
-          external_username: "идентификатор"
+          external_username: "Идентификатор"
           external_name: "Имя"
           external_email: "E-mail"
           external_avatar_url: "URL фона профиля"
