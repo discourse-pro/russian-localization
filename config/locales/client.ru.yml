@@ -1384,11 +1384,11 @@ ru:
       email_in_allow_strangers: "Принимать письма от анонимных пользователей без учетных записей"
       email_in_disabled: "Создание новых тем через электронную почту отключено в настройках сайта. Чтобы разрешить создание новых тем через электронную почту,"
       email_in_disabled_click: 'активируйте настройку "email in".'
-      allow_badges_label: "Разрешить вручение наград в этом разделе"
+      allow_badges_label: "вести учёт заслуг"
       edit_permissions: "Изменить права доступа"
       add_permission: "Добавить права"
       this_year: "за год"
-      position: "местоположение"
+      position: "порядок отображения в списке разделов"
       default_position: "Позиция по умолчанию"
       position_disabled: "Разделы будут показаны в порядке активности. Чтобы настроить порядок разделов,"
       position_disabled_click: 'включите настройку "fixed category positions".'
