@@ -1578,7 +1578,7 @@ ru:
       title: 'Discourse Admin'
       moderator: 'Модератор'
       dashboard:
-        title: "сводка"
+        title: "Сводка"
         last_updated: "Последнее обновление статистики:"
         version: "Версия"
         up_to_date: "Вы используете самую свежую версию!"
