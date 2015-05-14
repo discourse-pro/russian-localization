@@ -134,8 +134,8 @@ ru:
     log_in: "Вход"
     age: "возраст"
     joined: "Зарегистрировался"
-    admin_title: "административная часть"
-    flags_title: "жалобы"
+    admin_title: "Административная часть"
+    flags_title: "Жалобы"
     show_more: "показать дальше"
     show_help: "справка"
     links: "ссылки"
@@ -267,7 +267,7 @@ ru:
       sent_by_you: "Отправлено <a href='{{userUrl}}'>Вами</a>"
     directory:
       filter_name: "фильтр по имени пользователя"
-      title: "пользователи"
+      title: "Пользователи"
       likes_given: "Отправлено"
       likes_received: "Получено"
       topics_entered: "Посещено тем"
@@ -398,7 +398,7 @@ ru:
       delete_yourself_not_allowed: "Вы не можете сейчас удалить свою учётную запись. Попросите администратора удалить Вашу учётную запись."
       unread_message_count: "Сообщения"
       admin_delete: "Удалить"
-      users: "пользователи"
+      users: "Пользователи"
       muted_users: "Выключено"
       muted_users_instructions: "Не отображать уведомления от этих пользователей."
       staff_counters:
@@ -1502,7 +1502,7 @@ ru:
       with_topics: "%{filter} темы"
       with_category: "%{filter} %{category} темы"
       latest:
-        title: "последние"
+        title: "Последние"
         help: "темы с недавними сообщениями"
       hot:
         title: "Популярные"
