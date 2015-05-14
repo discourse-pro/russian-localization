@@ -1376,7 +1376,7 @@ ru:
       no_description: "Пожалуйста, добавьте описание для этого раздела."
       change_in_category_topic: "редактировать..."
       already_used: 'Цвет уже используется другим разделом'
-      security: "полномочия"
+      security: "Полномочия"
       images: "логотип / текстура"
       auto_close_label: "закрывать темы через:"
       auto_close_units: "часов"
