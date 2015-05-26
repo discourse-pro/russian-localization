@@ -134,7 +134,7 @@ ru:
     log_in: "Вход"
     age: "возраст"
     joined: "Зарегистрировался"
-    admin_title: "Административная часть"
+    admin_title: "Админ. часть"
     flags_title: "Жалобы"
     show_more: "показать дальше"
     show_help: "справка"
