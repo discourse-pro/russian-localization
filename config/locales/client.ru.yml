@@ -1573,7 +1573,7 @@ ru:
       create_post: "Отвечать / Просматривать"
       readonly: "Просматривать"
   admin_js:
-    type_to_filter: "Введите текст для фильтрации..."
+    type_to_filter: "что будем искать?"
     admin:
       title: 'Discourse Admin'
       moderator: 'Модератор'
@@ -2223,7 +2223,7 @@ ru:
         none: "Выберите секцию для редактирования."
         title: 'Текстовое содержание'
       site_settings:
-        show_overriden: 'Показывать только измененные'
+        show_overriden: 'изменённые'
         title: 'Настройки'
         reset: 'Вернуть по умолчанию'
         none: '(нет)'
