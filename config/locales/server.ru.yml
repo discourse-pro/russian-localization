@@ -14,7 +14,7 @@ ru:
   topics: "Темы"
   posts: "сообщения"
   loading: "Загрузка..."
-  powered_by_html: '<a href="http://discourse-forum.ru">Российская сборка Discourse</a>'
+  powered_by_html: '<a href="http://discourse-forum.ru">Российский форум Discourse</a>'
   log_in: "Войти"
   via: "%{username} на %{site_name}"
   is_reserved: "зарезервировано"
