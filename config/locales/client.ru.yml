@@ -23,6 +23,8 @@ ru:
             tb: Тб
     dates:
       time: "HH:mm"
+      later:
+        x_days: "дней прошло: %{count}"
       long_no_year: "D MMM HH:mm"
       long_no_year_no_time: "D MMM"
       long_with_year: "D MMM YYYY, HH:mm"
