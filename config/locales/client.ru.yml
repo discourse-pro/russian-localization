@@ -124,6 +124,14 @@ ru:
       facebook: 'поделиться ссылкой через Facebook'
       google+: 'поделиться ссылкой через Google+'
       email: 'поделиться ссылкой по почте'
+    solved:
+      allow_accepted_answers: "Разрешить пользователям выбирать ответ-решение?"
+      accept_answer: "отметить как решение"
+      has_accepted_answer: "решено"
+      unaccept_answer: "увы, не решило проблему"
+      accepted_answer: "решение"
+      accepted_html: "<i class='fa-check-square fa accepted'></i> проблему решил <a href data-user-card='{{username_lower}}'>{{username}}</a> в <a href='{{post_path}}'>ответе №{{post_number}}</a>"
+      accepted_notification: "<i title='accepted' class='fa fa-check-square'></i><p><span>{{username}}</span> {{description}}</p>"
     topic_admin_menu: "действия администратора над темой"
     emails_are_disabled: "Все исходящие письма были глобально отключены администратором. Уведомления любого вида не будут отправляться на почту."
     edit: 'отредактировать название и раздел темы'
@@ -2242,7 +2250,7 @@ ru:
           email: 'E-mail'
           files: 'Файлы'
           trust: 'Уровни доверия'
-          security: 'полномочия'
+          security: 'Полномочия'
           onebox: "Умная вставка"
           seo: 'Поисковая оптимизация (SEO)'
           spam: 'Спам'
