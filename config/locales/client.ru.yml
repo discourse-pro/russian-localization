@@ -2260,7 +2260,7 @@ ru:
       site_settings:
         show_overriden: 'изменённые'
         title: 'Настройки'
-        reset: 'Вернуть по умолчанию'
+        reset: 'сбросить'
         none: '(нет)'
         no_results: "Ничего не найдено."
         clear_filter: "Очистить"
