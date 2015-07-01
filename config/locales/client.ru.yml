@@ -1537,7 +1537,10 @@ ru:
       with_topics: "%{filter} темы"
       with_category: "%{filter} %{category} темы"
       latest:
-        title: "темы"
+        title:
+          zero: "Темы"
+          one: "Темы (1)"
+          other: "Темы ({{count}})"
         help: "темы с недавними сообщениями"
       hot:
         title: "Популярные"
