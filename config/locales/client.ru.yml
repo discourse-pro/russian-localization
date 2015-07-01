@@ -2273,7 +2273,7 @@ ru:
           required: 'Обязательное'
           basic: 'Основное'
           users: 'Пользователи'
-          posting: 'Сообщения'
+          posting: 'Правила публикации'
           email: 'E-mail'
           files: 'Файлы'
           trust: 'Уровни доверия'
