@@ -353,7 +353,7 @@ ru:
       '13': "Входящие"
       '14': "Ожидает одобрения"
     categories:
-      all: "разделы"
+      all: "Разделы"
       all_subcategories: "все"
       no_subcategory: "(нет)"
       category: "раздел"
@@ -539,7 +539,7 @@ ru:
       email_private_messages: "Присылать почтовое уведомление, когда кто-то оставляет мне сообщение"
       email_always: "Отправлять оповещения по e-mail даже когда я нахожусь на сайте."
       other_settings: "Прочее"
-      categories_settings: "разделы"
+      categories_settings: "Разделы"
       new_topic_duration:
         label: "Считать темы новыми, если"
         not_viewed: "Еще не просмотрены"
@@ -1553,7 +1553,7 @@ ru:
         title: "Поиск"
         help: "искать во всех темах"
       categories:
-        title: "разделы"
+        title: "Разделы"
         title_in: "Раздел - {{categoryName}}"
         help: "все темы, сгруппированные по разделам"
       unread:
