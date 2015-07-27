@@ -1584,8 +1584,8 @@ ru:
       category:
         title:
           zero: "{{categoryName}}"
-          one: "{{categoryName}} (1)"
-          other: "{{categoryName}} ({{count}})"
+          one: "{{categoryName}}"
+          other: "{{categoryName}}"
         help: "последние темы в разделе {{categoryName}}"
       top:
         title: "обсуждаемые"
