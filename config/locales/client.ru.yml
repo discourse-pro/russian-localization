@@ -1540,8 +1540,8 @@ ru:
       latest:
         title:
           zero: "Темы"
-          one: "Темы (1)"
-          other: "Темы ({{count}})"
+          one: "Темы"
+          other: "Темы"
         help: "темы с недавними сообщениями"
       hot:
         title: "Популярные"
