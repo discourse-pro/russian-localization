@@ -1522,7 +1522,7 @@ ru:
       other: "симпатий"
     likes_long: "{{number}} симпатий в теме"
     users: "Пользователи"
-    df_empty: ""
+    df_empty: " "
     users_lowercase:
       one: "участник"
       few: "участника"
