@@ -1908,7 +1908,8 @@ ru:
           many: "новых: {{count}}"
           other: "новых: {{count}}"
         lower_title: "новые"
-        title:
+        title: "новые"
+        title_with_count:
           one: "новых: {{count}}"
           few: "новых: {{count}}"
           many: "новых: {{count}}"
