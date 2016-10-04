@@ -1251,6 +1251,8 @@ ru:
       auto_close_remove: "Не закрывать тему автоматически"
       timeline:
         back: "Вернуться"
+        back_description: ""
+        replies_short: "%{current} / %{total}"
       progress:
         title: текущее местоположение в теме
         go_top: "перейти наверх"
