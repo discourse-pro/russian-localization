@@ -999,8 +999,10 @@ ru:
       show_preview: 'предпросмотр &raquo;'
       hide_preview: '&laquo; скрыть предпросмотр'
       quote_post_title: "Процитировать всё сообщение"
+      bold_label: "B"
       bold_title: "Выделение жирным"
       bold_text: "текст, выделенный жирным"
+      italic_label: "I"
       italic_title: "Выделение курсивом"
       italic_text: "текст, выделенный курсивом"
       link_title: "Ссылка"
@@ -1017,6 +1019,7 @@ ru:
       olist_title: "Нумерованный список"
       ulist_title: "Маркированный список"
       list_item: "Элемент списка"
+      heading_label: "H"
       heading_title: "Заголовок"
       heading_text: "Заголовок"
       hr_title: "Горизонтальный разделитель"
@@ -1125,6 +1128,7 @@ ru:
     not_logged_in_user: 'страница пользователя с историей его последней активности и настроек'
     current_user: 'перейти на Вашу страницу пользователя'
     topics:
+      new_messages_marker: "новое"
       bulk:
         unlist_topics: "Исключить из списков"
         reset_read: "Сбросить прочтённые"
